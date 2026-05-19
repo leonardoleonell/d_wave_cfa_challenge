@@ -1,1 +1,1 @@
-# leo-s-repository
+# dwave-cfa-challenge
