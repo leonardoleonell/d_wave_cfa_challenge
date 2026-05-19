@@ -1,0 +1,163 @@
+fiscal_year,canonical_metric,value_usd_millions,reconciliation_status,data_quality_flag,notes
+2020,revenue,5.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2020,cost_of_revenue,0.9,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2020,gross_profit,4.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2020,r_and_d,20.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2020,sga,15.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2020,operating_income,-31.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2020,ebitda,-29.0,NOT_FOUND,annual_used_no_reconciliation_test,Derived as operating_income + depreciation_and_amortization from annual GAAP inputs.
+2020,depreciation_and_amortization,2.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2020,interest_income,,NOT_FOUND,missing_value,Annual authoritative value retained from standardized Perplexity annual data.
+2020,interest_expense,-5.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2020,pretax_income,-22.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2020,tax_expense,,NOT_FOUND,missing_value,Annual authoritative value retained from standardized Perplexity annual data.
+2020,net_income,-22.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2020,cash_and_equivalents,21.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2020,marketable_securities,,NOT_FOUND,missing_value,Annual authoritative value retained from standardized Perplexity annual data.
+2020,total_debt,1.4,NOT_FOUND,annual_used_no_reconciliation_test,Derived as short_term_debt + long_term_debt from annual balance-sheet debt line items; total_liabilities was not used.
+2020,total_assets,47.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2020,total_liabilities,15.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2020,stockholders_equity,33.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2020,operating_cash_flow,-29.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2020,capex,0.7,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2020,free_cash_flow,-29.7,NOT_FOUND,annual_used_no_reconciliation_test,Derived as operating_cash_flow - capex from annual inputs.
+2020,stock_based_compensation,3.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2020,shares_outstanding,127.0,NOT_FOUND,annual_used_no_reconciliation_test,Year-end shares_outstanding unavailable in the annual core statement layer; weighted_average_diluted_shares used as the permitted proxy.
+2020,weighted_average_basic_shares,127.0,NOT_APPLICABLE,annual_used_no_reconciliation_test,Taken from annual Income Statement share-count line item; values are in millions of shares.
+2020,weighted_average_diluted_shares,127.0,NOT_APPLICABLE,annual_used_no_reconciliation_test,Taken from annual Income Statement share-count line item; values are in millions of shares.
+2020,net_cash,,NOT_FOUND,missing_value,Derived as cash_and_equivalents + marketable_securities - total_debt when all components are available.
+2021,revenue,6.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2021,cost_of_revenue,2.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2021,gross_profit,5.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2021,r_and_d,25.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2021,sga,18.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2021,operating_income,-39.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2021,ebitda,-37.0,NOT_FOUND,annual_used_no_reconciliation_test,Derived as operating_income + depreciation_and_amortization from annual GAAP inputs.
+2021,depreciation_and_amortization,2.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2021,interest_income,,NOT_FOUND,missing_value,Annual authoritative value retained from standardized Perplexity annual data.
+2021,interest_expense,-4.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2021,pretax_income,-41.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2021,tax_expense,,NOT_FOUND,missing_value,Annual authoritative value retained from standardized Perplexity annual data.
+2021,net_income,-41.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2021,cash_and_equivalents,9.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2021,marketable_securities,,NOT_FOUND,missing_value,Annual authoritative value retained from standardized Perplexity annual data.
+2021,total_debt,30.4,NOT_FOUND,annual_used_no_reconciliation_test,Derived as short_term_debt + long_term_debt from annual balance-sheet debt line items; total_liabilities was not used.
+2021,total_assets,29.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2021,total_liabilities,48.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2021,stockholders_equity,-18.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2021,operating_cash_flow,-35.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2021,capex,2.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2021,free_cash_flow,-37.0,NOT_FOUND,annual_used_no_reconciliation_test,Derived as operating_cash_flow - capex from annual inputs.
+2021,stock_based_compensation,2.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2021,shares_outstanding,125.0,NOT_FOUND,annual_used_no_reconciliation_test,Year-end shares_outstanding unavailable in the annual core statement layer; weighted_average_diluted_shares used as the permitted proxy.
+2021,weighted_average_basic_shares,125.0,NOT_APPLICABLE,annual_used_no_reconciliation_test,Taken from annual Income Statement share-count line item; values are in millions of shares.
+2021,weighted_average_diluted_shares,125.0,NOT_APPLICABLE,annual_used_no_reconciliation_test,Taken from annual Income Statement share-count line item; values are in millions of shares.
+2021,net_cash,,NOT_FOUND,missing_value,Derived as cash_and_equivalents + marketable_securities - total_debt when all components are available.
+2022,revenue,7.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2022,cost_of_revenue,3.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2022,gross_profit,4.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2022,r_and_d,32.0,WARNING,annual_used_with_reconciliation_warning,Annual authoritative value retained from standardized Perplexity annual data.
+2022,sga,32.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2022,operating_income,-59.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2022,ebitda,-58.0,NOT_FOUND,annual_used_no_reconciliation_test,Derived as operating_income + depreciation_and_amortization from annual GAAP inputs.
+2022,depreciation_and_amortization,1.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2022,interest_income,,NOT_FOUND,missing_value,Annual authoritative value retained from standardized Perplexity annual data.
+2022,interest_expense,-2.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2022,pretax_income,-54.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2022,tax_expense,,NOT_FOUND,missing_value,Annual authoritative value retained from standardized Perplexity annual data.
+2022,net_income,-54.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2022,cash_and_equivalents,7.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2022,marketable_securities,,NOT_FOUND,missing_value,Annual authoritative value retained from standardized Perplexity annual data.
+2022,total_debt,33.0,NOT_FOUND,annual_used_no_reconciliation_test,Derived as short_term_debt + long_term_debt from annual balance-sheet debt line items; total_liabilities was not used.
+2022,total_assets,27.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2022,total_liabilities,56.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2022,stockholders_equity,-29.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2022,operating_cash_flow,-45.0,WARNING,annual_used_with_reconciliation_warning,Annual authoritative value retained from standardized Perplexity annual data.
+2022,capex,0.4,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2022,free_cash_flow,-45.4,NOT_FOUND,annual_used_no_reconciliation_test,Derived as operating_cash_flow - capex from annual inputs.
+2022,stock_based_compensation,9.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2022,shares_outstanding,120.0,NOT_FOUND,annual_used_no_reconciliation_test,Year-end shares_outstanding unavailable in the annual core statement layer; weighted_average_diluted_shares used as the permitted proxy.
+2022,weighted_average_basic_shares,120.0,NOT_APPLICABLE,annual_used_no_reconciliation_test,Taken from annual Income Statement share-count line item; values are in millions of shares.
+2022,weighted_average_diluted_shares,120.0,NOT_APPLICABLE,annual_used_no_reconciliation_test,Taken from annual Income Statement share-count line item; values are in millions of shares.
+2022,net_cash,,NOT_FOUND,missing_value,Derived as cash_and_equivalents + marketable_securities - total_debt when all components are available.
+2023,revenue,9.0,WARNING,annual_used_with_reconciliation_warning,Annual authoritative value retained from standardized Perplexity annual data.
+2023,cost_of_revenue,4.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2023,gross_profit,5.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2023,r_and_d,38.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2023,sga,47.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2023,operating_income,-81.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2023,ebitda,-80.0,NOT_FOUND,annual_used_no_reconciliation_test,Derived as operating_income + depreciation_and_amortization from annual GAAP inputs.
+2023,depreciation_and_amortization,1.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2023,interest_income,,NOT_FOUND,missing_value,Annual authoritative value retained from standardized Perplexity annual data.
+2023,interest_expense,-0.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2023,pretax_income,-85.0,WARNING,annual_used_with_reconciliation_warning,Annual authoritative value retained from standardized Perplexity annual data.
+2023,tax_expense,,NOT_FOUND,missing_value,Annual authoritative value retained from standardized Perplexity annual data.
+2023,net_income,-85.0,WARNING,annual_used_with_reconciliation_warning,Annual authoritative value retained from standardized Perplexity annual data.
+2023,cash_and_equivalents,41.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2023,marketable_securities,,NOT_FOUND,missing_value,Annual authoritative value retained from standardized Perplexity annual data.
+2023,total_debt,64.4,NOT_FOUND,annual_used_no_reconciliation_test,Derived as short_term_debt + long_term_debt from annual balance-sheet debt line items; total_liabilities was not used.
+2023,total_assets,59.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2023,total_liabilities,84.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2023,stockholders_equity,-24.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2023,operating_cash_flow,-61.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2023,capex,0.6,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2023,free_cash_flow,-61.6,NOT_FOUND,annual_used_no_reconciliation_test,Derived as operating_cash_flow - capex from annual inputs.
+2023,stock_based_compensation,22.0,WARNING,annual_used_with_reconciliation_warning,Annual authoritative value retained from standardized Perplexity annual data.
+2023,shares_outstanding,138.0,NOT_FOUND,annual_used_no_reconciliation_test,Year-end shares_outstanding unavailable in the annual core statement layer; weighted_average_diluted_shares used as the permitted proxy.
+2023,weighted_average_basic_shares,138.0,NOT_APPLICABLE,annual_used_no_reconciliation_test,Taken from annual Income Statement share-count line item; values are in millions of shares.
+2023,weighted_average_diluted_shares,138.0,NOT_APPLICABLE,annual_used_no_reconciliation_test,Taken from annual Income Statement share-count line item; values are in millions of shares.
+2023,net_cash,,NOT_FOUND,missing_value,Derived as cash_and_equivalents + marketable_securities - total_debt when all components are available.
+2024,revenue,9.0,WARNING,annual_used_with_reconciliation_warning,Annual authoritative value retained from standardized Perplexity annual data.
+2024,cost_of_revenue,3.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2024,gross_profit,6.0,WARNING,annual_used_with_reconciliation_warning,Annual authoritative value retained from standardized Perplexity annual data.
+2024,r_and_d,35.0,WARNING,annual_used_with_reconciliation_warning,Annual authoritative value retained from standardized Perplexity annual data.
+2024,sga,47.0,WARNING,annual_used_with_reconciliation_warning,Annual authoritative value retained from standardized Perplexity annual data.
+2024,operating_income,-77.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2024,ebitda,-76.0,NOT_FOUND,annual_used_no_reconciliation_test,Derived as operating_income + depreciation_and_amortization from annual GAAP inputs.
+2024,depreciation_and_amortization,1.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2024,interest_income,2.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2024,interest_expense,-4.0,WARNING,annual_used_with_reconciliation_warning,Annual authoritative value retained from standardized Perplexity annual data.
+2024,pretax_income,-144.0,WARNING,annual_used_with_reconciliation_warning,Annual authoritative value retained from standardized Perplexity annual data.
+2024,tax_expense,,NOT_FOUND,missing_value,Annual authoritative value retained from standardized Perplexity annual data.
+2024,net_income,-144.0,WARNING,annual_used_with_reconciliation_warning,Annual authoritative value retained from standardized Perplexity annual data.
+2024,cash_and_equivalents,178.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2024,marketable_securities,,NOT_FOUND,missing_value,Annual authoritative value retained from standardized Perplexity annual data.
+2024,total_debt,30.3,NOT_FOUND,annual_used_no_reconciliation_test,Derived as short_term_debt + long_term_debt from annual balance-sheet debt line items; total_liabilities was not used.
+2024,total_assets,200.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2024,total_liabilities,137.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2024,stockholders_equity,63.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2024,operating_cash_flow,-43.0,WARNING,annual_used_with_reconciliation_warning,Annual authoritative value retained from standardized Perplexity annual data.
+2024,capex,2.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2024,free_cash_flow,-45.0,NOT_FOUND,annual_used_no_reconciliation_test,Derived as operating_cash_flow - capex from annual inputs.
+2024,stock_based_compensation,16.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2024,shares_outstanding,192.0,NOT_FOUND,annual_used_no_reconciliation_test,Year-end shares_outstanding unavailable in the annual core statement layer; weighted_average_diluted_shares used as the permitted proxy.
+2024,weighted_average_basic_shares,192.0,NOT_APPLICABLE,annual_used_no_reconciliation_test,Taken from annual Income Statement share-count line item; values are in millions of shares.
+2024,weighted_average_diluted_shares,192.0,NOT_APPLICABLE,annual_used_no_reconciliation_test,Taken from annual Income Statement share-count line item; values are in millions of shares.
+2024,net_cash,,NOT_FOUND,missing_value,Derived as cash_and_equivalents + marketable_securities - total_debt when all components are available.
+2025,revenue,25.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2025,cost_of_revenue,4.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2025,gross_profit,20.0,WARNING,annual_used_with_reconciliation_warning,Annual authoritative value retained from standardized Perplexity annual data.
+2025,r_and_d,51.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2025,sga,70.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2025,operating_income,-100.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2025,ebitda,-98.0,NOT_FOUND,annual_used_no_reconciliation_test,Derived as operating_income + depreciation_and_amortization from annual GAAP inputs.
+2025,depreciation_and_amortization,2.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2025,interest_income,24.0,INCOMPLETE,annual_used_quarterly_incomplete,Annual authoritative value retained from standardized Perplexity annual data.
+2025,interest_expense,-4.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2025,pretax_income,-355.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2025,tax_expense,,NOT_FOUND,missing_value,Annual authoritative value retained from standardized Perplexity annual data.
+2025,net_income,-355.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2025,cash_and_equivalents,635.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2025,marketable_securities,249.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2025,total_debt,36.1,NOT_FOUND,annual_used_no_reconciliation_test,Derived as short_term_debt + long_term_debt from annual balance-sheet debt line items; total_liabilities was not used.
+2025,total_assets,916.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2025,total_liabilities,64.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2025,stockholders_equity,852.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2025,operating_cash_flow,-72.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2025,capex,4.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2025,free_cash_flow,-76.0,NOT_FOUND,annual_used_no_reconciliation_test,Derived as operating_cash_flow - capex from annual inputs.
+2025,stock_based_compensation,23.0,PASS,annual_used_reconciled,Annual authoritative value retained from standardized Perplexity annual data.
+2025,shares_outstanding,321.0,NOT_FOUND,annual_used_no_reconciliation_test,Year-end shares_outstanding unavailable in the annual core statement layer; weighted_average_diluted_shares used as the permitted proxy.
+2025,weighted_average_basic_shares,321.0,NOT_APPLICABLE,annual_used_no_reconciliation_test,Taken from annual Income Statement share-count line item; values are in millions of shares.
+2025,weighted_average_diluted_shares,321.0,NOT_APPLICABLE,annual_used_no_reconciliation_test,Taken from annual Income Statement share-count line item; values are in millions of shares.
+2025,net_cash,847.9,NOT_FOUND,annual_used_no_reconciliation_test,Derived as cash_and_equivalents + marketable_securities - total_debt when all components are available.

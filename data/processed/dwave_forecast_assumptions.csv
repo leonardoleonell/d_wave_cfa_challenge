@@ -1,0 +1,8 @@
+fiscal_year,revenue_growth,gross_margin,r_and_d_as_percent_revenue,sga_as_percent_revenue,capex_as_percent_revenue,working_capital_as_percent_revenue,tax_rate,diluted_shares_growth,notes
+2026,0.80,0.78,1.50,2.00,0.08,0.05,0.00,0.08,High growth from a small revenue base; assumes continued commercialization but does not extrapolate the 2025 revenue spike.
+2027,0.60,0.76,1.10,1.45,0.07,0.05,0.00,0.07,Revenue growth decelerates as the base expands; operating leverage begins to appear.
+2028,0.45,0.74,0.80,1.05,0.06,0.04,0.00,0.06,Scaling phase with R&D and SG&A declining as a percentage of revenue.
+2029,0.35,0.72,0.60,0.80,0.05,0.04,0.00,0.05,Continued commercial adoption with narrowing operating losses.
+2030,0.28,0.70,0.45,0.60,0.05,0.03,0.00,0.04,Further operating leverage; tax remains zero due to expected loss carryforwards.
+2031,0.22,0.68,0.35,0.45,0.04,0.03,0.10,0.03,"Approaching a more normalized operating structure, with lower opex intensity."
+2032,0.18,0.66,0.30,0.35,0.04,0.03,0.15,0.03,Longer-term growth remains above mature technology companies but continues to decelerate.

@@ -1,0 +1,6 @@
+source_id,company,document_type,document_name,filing_date,period_covered,url,data_used,reliability_level,notes
+S001,D-Wave,10-K,TO BE FILLED,TO BE FILLED,TO BE FILLED,TO BE FILLED,Historical financials,High,Primary company filing
+S002,D-Wave,10-Q,TO BE FILLED,TO BE FILLED,TO BE FILLED,TO BE FILLED,Recent quarterly financials,High,Primary company filing
+S003,D-Wave,Investor Presentation,TO BE FILLED,TO BE FILLED,TO BE FILLED,TO BE FILLED,Business model and operating data,Medium,Company presentation
+S004,D-Wave,Earnings Release,TO BE FILLED,TO BE FILLED,TO BE FILLED,TO BE FILLED,Recent results and management commentary,High,Company press release
+S005,Peers,Comdinheiro Export,TO BE FILLED,TO BE FILLED,TO BE FILLED,TO BE FILLED,Market data and trading multiples,Medium,Needs reconciliation with public sources

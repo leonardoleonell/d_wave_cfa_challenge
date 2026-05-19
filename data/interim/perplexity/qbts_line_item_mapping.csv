@@ -1,0 +1,301 @@
+original_line_item,canonical_metric,statement_or_tab,category,use_in_core_financials,notes
+Adjusted Capital Expenditures,capex,Adjusted,adjusted_non_gaap,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Adjusted EBIT,UNMAPPED,Adjusted,adjusted_non_gaap,False,No confident mapping to the requested canonical metric set.
+Adjusted EBIT Margin,UNMAPPED,Adjusted,adjusted_non_gaap,False,No confident mapping to the requested canonical metric set.
+Adjusted EBITDA,ebitda,Adjusted,adjusted_non_gaap,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Adjusted EBITDA Margin,UNMAPPED,Adjusted,adjusted_non_gaap,False,No confident mapping to the requested canonical metric set.
+Adjusted EPS,UNMAPPED,Adjusted,adjusted_non_gaap,False,No confident mapping to the requested canonical metric set.
+Adjusted Free Cash Flow (FCF),free_cash_flow,Adjusted,adjusted_non_gaap,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Adjusted Free Cash Flow Margin,UNMAPPED,Adjusted,adjusted_non_gaap,False,No confident mapping to the requested canonical metric set.
+Adjusted Gross Margin,UNMAPPED,Adjusted,adjusted_non_gaap,False,No confident mapping to the requested canonical metric set.
+Adjusted Gross Profit,gross_profit,Adjusted,adjusted_non_gaap,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Adjusted Net Income,net_income,Adjusted,adjusted_non_gaap,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Adjusted Net Income Margin,UNMAPPED,Adjusted,adjusted_non_gaap,False,No confident mapping to the requested canonical metric set.
+Adjusted Revenue,revenue,Adjusted,adjusted_non_gaap,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Accounts Payable,accounts_payable,Balance Sheet,gaap_balance_sheet,True,Core GAAP USD-denominated financial-statement metric.
+Accounts Receivable,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Accrued Expenses,accrued_expenses,Balance Sheet,gaap_balance_sheet,True,Core GAAP USD-denominated financial-statement metric.
+Accumulated Other Comprehensive Income,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Additional Paid-in Capital,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Assets,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,"Section header or grouping row; retained in mapping, not a standardized metric."
+Cash and Cash Equivalents,cash_and_equivalents,Balance Sheet,gaap_balance_sheet,True,Core GAAP USD-denominated financial-statement metric.
+Common Stock,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Current Portion of Leases,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Equity,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,"Section header or grouping row; retained in mapping, not a standardized metric."
+Goodwill,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Inventories,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Leases,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Liabilities,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,"Section header or grouping row; retained in mapping, not a standardized metric."
+Long-Term Debt,long_term_debt,Balance Sheet,gaap_balance_sheet,True,Core GAAP USD-denominated financial-statement metric.
+Net Intangible Assets,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+"Net Property, Plant & Equipment",UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Other Current Assets,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Other Long-Term Assets,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Other Long-Term Liabilities,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Other Receivables,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Preferred Stock,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Retained Earnings,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Short-Term Debt,short_term_debt,Balance Sheet,gaap_balance_sheet,True,Core GAAP USD-denominated financial-statement metric.
+Short-Term Investments,marketable_securities,Balance Sheet,gaap_balance_sheet,True,Core GAAP USD-denominated financial-statement metric.
+Total Assets,total_assets,Balance Sheet,gaap_balance_sheet,True,Core GAAP USD-denominated financial-statement metric.
+Total Cash and Cash Equivalents,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Total Common Shareholders' Equity,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Total Current Assets,total_current_assets,Balance Sheet,gaap_balance_sheet,True,Core GAAP USD-denominated financial-statement metric.
+Total Current Liabilities,total_current_liabilities,Balance Sheet,gaap_balance_sheet,True,Core GAAP USD-denominated financial-statement metric.
+Total Liabilities,total_liabilities,Balance Sheet,gaap_balance_sheet,True,Core GAAP USD-denominated financial-statement metric.
+Total Liabilities and Shareholders' Equity,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Total Long-Term Liabilities,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Total Shareholders' Equity,stockholders_equity,Balance Sheet,gaap_balance_sheet,True,Core GAAP USD-denominated financial-statement metric.
+Total Trade Receivables,UNMAPPED,Balance Sheet,gaap_balance_sheet,False,No confident mapping to the requested canonical metric set.
+Unearned Revenue,deferred_revenue,Balance Sheet,gaap_balance_sheet,True,Core GAAP USD-denominated financial-statement metric.
+Capital Expenditure,capex,Cash Flow,gaap_cash_flow,True,Core GAAP USD-denominated financial-statement metric.
+Cash from Financing Activities,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Cash from Investing Activities,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Cash from Operating Activities,operating_cash_flow,Cash Flow,gaap_cash_flow,True,Core GAAP USD-denominated financial-statement metric.
+Changes in Accounts Payable,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Changes in Accrued Expenses,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Changes in Inventories,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Changes in Other Operating Activities,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Changes in Trade Receivables,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Changes in Unearned Revenue,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Depreciation & Amortization,depreciation_and_amortization,Cash Flow,gaap_cash_flow,True,Core GAAP USD-denominated financial-statement metric.
+Effect of Exchange Rate Changes on Cash and Cash Equivalents,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Financing Activities,UNMAPPED,Cash Flow,gaap_cash_flow,False,"Section header or grouping row; retained in mapping, not a standardized metric."
+"Increase / (Decrease) in Cash, Cash Equivalents and Restricted Cash",UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Investing Activities,UNMAPPED,Cash Flow,gaap_cash_flow,False,"Section header or grouping row; retained in mapping, not a standardized metric."
+Issuance of Common Shares,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Issuance of Long-Term Debt,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Issuance of Preferred Shares,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Net Income,net_income,Cash Flow,gaap_cash_flow,False,Mapped but excluded from the core layer because another GAAP source line is preferred for this canonical metric.
+Net Issuance / (Repayments) of Long-Term Debt,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Net Issuance / (Repurchases) of Common Shares,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Net Issuance / (Repurchases) of Preferred Shares,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Operating Activities,UNMAPPED,Cash Flow,gaap_cash_flow,False,"Section header or grouping row; retained in mapping, not a standardized metric."
+Other Adjustments,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Other Financing Activities,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Payments for Business Acquisitions,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Proceeds from Sale of Investments,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Purchases of Intangible Assets,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Purchases of Investments,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Repayments of Long-Term Debt,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Repurchases of Common Shares,UNMAPPED,Cash Flow,gaap_cash_flow,False,No confident mapping to the requested canonical metric set.
+Share-Based Compensation Expense,stock_based_compensation,Cash Flow,gaap_cash_flow,True,Core GAAP USD-denominated financial-statement metric.
+Basic EPS,eps_basic,Income Statement,gaap_income_statement,False,Mapped but excluded from the core USD-millions layer because the metric is not USD-denominated.
+Basic Weighted Average Shares Outstanding,weighted_average_basic_shares,Income Statement,gaap_income_statement,False,Mapped but excluded from the core USD-millions layer because the metric is not USD-denominated.
+Consolidated Net Income,net_income,Income Statement,gaap_income_statement,True,Core GAAP USD-denominated financial-statement metric.
+Cost of Sales,cost_of_revenue,Income Statement,gaap_income_statement,True,Core GAAP USD-denominated financial-statement metric.
+Diluted EPS,eps_diluted,Income Statement,gaap_income_statement,False,Mapped but excluded from the core USD-millions layer because the metric is not USD-denominated.
+Diluted Weighted Average Shares Outstanding,weighted_average_diluted_shares,Income Statement,gaap_income_statement,False,Mapped but excluded from the core USD-millions layer because the metric is not USD-denominated.
+EBITDA Margin,UNMAPPED,Income Statement,gaap_income_statement,False,No confident mapping to the requested canonical metric set.
+Effective Tax Rate,UNMAPPED,Income Statement,gaap_income_statement,False,No confident mapping to the requested canonical metric set.
+Gross Margin,UNMAPPED,Income Statement,gaap_income_statement,False,No confident mapping to the requested canonical metric set.
+Gross Profit,gross_profit,Income Statement,gaap_income_statement,True,Core GAAP USD-denominated financial-statement metric.
+Income Before Provision for Income Taxes,pretax_income,Income Statement,gaap_income_statement,True,Core GAAP USD-denominated financial-statement metric.
+Interest Expense,interest_expense,Income Statement,gaap_income_statement,True,Core GAAP USD-denominated financial-statement metric.
+Interest and Investment Income,interest_income,Income Statement,gaap_income_statement,True,Core GAAP USD-denominated financial-statement metric.
+Margins,UNMAPPED,Income Statement,gaap_income_statement,False,"Section header or grouping row; retained in mapping, not a standardized metric."
+Net Income Attributable to Common Shareholders,UNMAPPED,Income Statement,gaap_income_statement,False,No confident mapping to the requested canonical metric set.
+Net Profit Margin,UNMAPPED,Income Statement,gaap_income_statement,False,No confident mapping to the requested canonical metric set.
+Non-Operating Income,UNMAPPED,Income Statement,gaap_income_statement,False,No confident mapping to the requested canonical metric set.
+Operating Margin,UNMAPPED,Income Statement,gaap_income_statement,False,No confident mapping to the requested canonical metric set.
+Operating Profit,operating_income,Income Statement,gaap_income_statement,True,Core GAAP USD-denominated financial-statement metric.
+Pre-Tax Profit Margin,UNMAPPED,Income Statement,gaap_income_statement,False,No confident mapping to the requested canonical metric set.
+Provision for Income Taxes,tax_expense,Income Statement,gaap_income_statement,True,Core GAAP USD-denominated financial-statement metric.
+Research & Development Expenses,r_and_d,Income Statement,gaap_income_statement,True,Core GAAP USD-denominated financial-statement metric.
+"Selling, General & Administrative Expenses",sga,Income Statement,gaap_income_statement,True,Core GAAP USD-denominated financial-statement metric.
+Total Non-Operating Income,UNMAPPED,Income Statement,gaap_income_statement,False,No confident mapping to the requested canonical metric set.
+Total Revenues,revenue,Income Statement,gaap_income_statement,True,Core GAAP USD-denominated financial-statement metric.
+% Growth,UNMAPPED,Key Stats,contextual_market_metric,False,No confident mapping to the requested canonical metric set.
+% Margin,UNMAPPED,Key Stats,contextual_market_metric,False,No confident mapping to the requested canonical metric set.
++ Debt,UNMAPPED,Key Stats,contextual_market_metric,False,No confident mapping to the requested canonical metric set.
+- Cash,UNMAPPED,Key Stats,contextual_market_metric,False,No confident mapping to the requested canonical metric set.
+CapEx,capex,Key Stats,contextual_market_metric,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Diluted EPS,eps_diluted,Key Stats,contextual_market_metric,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+EBITDA,ebitda,Key Stats,contextual_market_metric,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Enterprise Value,UNMAPPED,Key Stats,contextual_market_metric,False,No confident mapping to the requested canonical metric set.
+Free Cash Flow,free_cash_flow,Key Stats,contextual_market_metric,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Gross Profit,gross_profit,Key Stats,contextual_market_metric,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Market Cap,UNMAPPED,Key Stats,contextual_market_metric,False,No confident mapping to the requested canonical metric set.
+Net Income,net_income,Key Stats,contextual_market_metric,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Operating Cash Flow,operating_cash_flow,Key Stats,contextual_market_metric,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Revenue,revenue,Key Stats,contextual_market_metric,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+(EBITDA - Capex) / Interest Expense,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Accounts Receivable 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Accounts Receivable 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Accounts Receivable 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Asset Turnover,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Assets to Equity,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Basic EPS,eps_basic,Ratios,ratio_or_market_metric,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Book Value,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Book Value per Share,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Buyback Yield,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+CapEx per Share,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+CapEx to Depreciation,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+CapEx to OCF,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+CapEx to Revenue,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Capital Efficiency,UNMAPPED,Ratios,ratio_or_market_metric,False,"Section header or grouping row; retained in mapping, not a standardized metric."
+Capital Expenditures 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Capital Expenditures 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Capital Expenditures 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Cash Conversion Cycle,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Cash Flow to Debt Ratio,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Cash From Operations 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Cash From Operations 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Cash From Operations 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Cash Ratio,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Cash per Share,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Common Equity 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Common Equity 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Common Equity 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Common Size,UNMAPPED,Ratios,ratio_or_market_metric,False,"Section header or grouping row; retained in mapping, not a standardized metric."
+Current Ratio,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Days Inventory Outstanding,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Days Payables Outstanding,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Days Sales Outstanding,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Debt / Equity,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Debt Paydown Yield,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Debt Ratio,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Diluted EPS,eps_diluted,Ratios,ratio_or_market_metric,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Diluted EPS 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Diluted EPS 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Diluted EPS 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Diluted Weighted Avg. Shares Outstanding 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Diluted Weighted Avg. Shares Outstanding 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Diluted Weighted Avg. Shares Outstanding 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+EBIT / Interest Expense,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+EBIT 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+EBIT 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+EBIT 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+EBITDA,ebitda,Ratios,ratio_or_market_metric,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+EBITDA / Interest Expense,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+EBITDA 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+EBITDA 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+EBITDA 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+EBITDA Margin,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+EV/EBIT,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+EV/EBITDA,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+EV/FCF,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+EV/Gross Profit,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+EV/OCF,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+EV/Sales,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Earnings From Cont. Operations 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Earnings From Cont. Operations 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Earnings From Cont. Operations 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Earnings Yield,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Effective Tax Rate,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+FCF / EBITDA,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+FCF / Net Income,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+FCF / OCF,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+FCF Yield,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Financial Health,UNMAPPED,Ratios,ratio_or_market_metric,False,"Section header or grouping row; retained in mapping, not a standardized metric."
+Fixed Asset Turnover,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Free Cash Flow,free_cash_flow,Ratios,ratio_or_market_metric,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Free Cash Flow Margin,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Free Cash Flow per Share,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Goodwill / Assets,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Gross Profit 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Gross Profit 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Gross Profit 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Gross Profit Margin,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,"Section header or grouping row; retained in mapping, not a standardized metric."
+Intangibles to Total Assets,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Inventory 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Inventory 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Inventory 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Inventory Turnover,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Levered Free Cash Flow,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Levered Free Cash Flow 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Levered Free Cash Flow 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Levered Free Cash Flow 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Long Term Debt / Capitalization,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Long-Term Debt / Equity,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Long-term Debt to Assets,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Margins,UNMAPPED,Ratios,ratio_or_market_metric,False,"Section header or grouping row; retained in mapping, not a standardized metric."
+Market Cap,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+NOPAT,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Net Change in Cash,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Net Current Asset Value,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Net Debt,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Net Debt / EBITDA,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Net Income 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Net Income 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Net Income 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Net Profit Margin,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+OCF / Net Income,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+OCF / Sales,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Operating Cash Flow per Share,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Operating Cycle,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Operating Margin,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Other,UNMAPPED,Ratios,ratio_or_market_metric,False,"Section header or grouping row; retained in mapping, not a standardized metric."
+P/B,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+P/E,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+P/FCF,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+P/Gross Profit,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+P/OCF,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+P/S,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Payables Turnover,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Per Share,UNMAPPED,Ratios,ratio_or_market_metric,False,"Section header or grouping row; retained in mapping, not a standardized metric."
+Plant and Equip. 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Plant and Equip. 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Plant and Equip. 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Pre-Tax Profit Margin,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Quick Ratio,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+R&D to Revenue,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Receivables Turnover,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Return on Assets,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Return on Capital Employed,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Return on Equity,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Return on Invested Capital,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Return on Tangible Assets,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Return on Total Capital,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Revenue 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Revenue 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Revenue 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Revenue per Share,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+SG&A to Revenue,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Shareholder Yield,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Stock Price,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Stock-based Comp to Revenue,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Tangible Book Value,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Tangible Book Value 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Tangible Book Value 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Tangible Book Value 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Tangible Book Value per Share,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Total Assets 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Total Assets 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Total Assets 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Total Debt,total_debt,Ratios,ratio_or_market_metric,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Total Debt / Capitalization,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Total Enterprise Value (TEV),UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Total Equity 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Total Equity 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Total Equity 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Total Shares Outstanding,shares_outstanding,Ratios,ratio_or_market_metric,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Trailing Valuation,UNMAPPED,Ratios,ratio_or_market_metric,False,"Section header or grouping row; retained in mapping, not a standardized metric."
+Unlevered Free Cash Flow,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Unlevered Free Cash Flow 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Unlevered Free Cash Flow 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Unlevered Free Cash Flow 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Valuation,UNMAPPED,Ratios,ratio_or_market_metric,False,"Section header or grouping row; retained in mapping, not a standardized metric."
+Weighted Avg. Shares Outstanding,weighted_average_basic_shares,Ratios,ratio_or_market_metric,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Weighted Avg. Shares Outstanding 1Y Growth,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Weighted Avg. Shares Outstanding 3Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Weighted Avg. Shares Outstanding 5Y CAGR,UNMAPPED,Ratios,ratio_or_market_metric,False,No confident mapping to the requested canonical metric set.
+Weighted Avg. Shares Outstanding Diluted,weighted_average_diluted_shares,Ratios,ratio_or_market_metric,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Bookings,UNMAPPED,Segments & KPIs,segment_or_operating_kpi,False,No confident mapping to the requested canonical metric set.
+Canada Revenue,UNMAPPED,Segments & KPIs,segment_or_operating_kpi,False,No confident mapping to the requested canonical metric set.
+Germany Revenue,UNMAPPED,Segments & KPIs,segment_or_operating_kpi,False,No confident mapping to the requested canonical metric set.
+Japan Revenue,UNMAPPED,Segments & KPIs,segment_or_operating_kpi,False,No confident mapping to the requested canonical metric set.
+Key Performance Indicators,UNMAPPED,Segments & KPIs,segment_or_operating_kpi,False,"Section header or grouping row; retained in mapping, not a standardized metric."
+Number of Commercial Customers,UNMAPPED,Segments & KPIs,segment_or_operating_kpi,False,No confident mapping to the requested canonical metric set.
+Number of Research Institution and Government Customers,UNMAPPED,Segments & KPIs,segment_or_operating_kpi,False,No confident mapping to the requested canonical metric set.
+Other Countries Revenue,UNMAPPED,Segments & KPIs,segment_or_operating_kpi,False,No confident mapping to the requested canonical metric set.
+Other Product or Services Revenue,UNMAPPED,Segments & KPIs,segment_or_operating_kpi,False,No confident mapping to the requested canonical metric set.
+Professional Services Revenue,UNMAPPED,Segments & KPIs,segment_or_operating_kpi,False,No confident mapping to the requested canonical metric set.
+Quantum Computing as a Service (QCaaS) Revenue,UNMAPPED,Segments & KPIs,segment_or_operating_kpi,False,No confident mapping to the requested canonical metric set.
+Remaining Performance Obligations (RPO),UNMAPPED,Segments & KPIs,segment_or_operating_kpi,False,No confident mapping to the requested canonical metric set.
+Remaining Performance Obligations (RPO) to be Recognized Over NTM,UNMAPPED,Segments & KPIs,segment_or_operating_kpi,False,No confident mapping to the requested canonical metric set.
+Revenue,revenue,Segments & KPIs,segment_or_operating_kpi,False,"Mapped for reference, but excluded from the core GAAP layer because it comes from a non-core tab."
+Revenue by Geography,UNMAPPED,Segments & KPIs,segment_or_operating_kpi,False,"Section header or grouping row; retained in mapping, not a standardized metric."
+System Sales Revenue,UNMAPPED,Segments & KPIs,segment_or_operating_kpi,False,No confident mapping to the requested canonical metric set.
+United States Revenue,UNMAPPED,Segments & KPIs,segment_or_operating_kpi,False,No confident mapping to the requested canonical metric set.

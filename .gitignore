@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets / API keys
+.env
+*.env
+
+# Data sensível ou pesada
+data/raw/
+data/private/
+
+# Outputs gerados
+outputs/
+reports/temp/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

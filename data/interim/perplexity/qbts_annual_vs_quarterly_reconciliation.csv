@@ -1,0 +1,172 @@
+fiscal_year,canonical_metric,metric_category,reconciliation_method,annual_value_usd_millions,quarterly_comparison_value_usd_millions,difference_usd_millions,difference_percent,quarters_available,quarters_missing,status,notes
+2020,accounts_payable,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,2.0,2.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2020,accrued_expenses,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,3.0,3.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2020,cash_and_equivalents,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,21.0,21.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2020,deferred_revenue,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,5.0,5.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2020,long_term_debt,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,1.0,1.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2020,short_term_debt,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,0.4,0.4,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2020,stockholders_equity,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,33.0,33.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2020,total_assets,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,47.0,47.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2020,total_current_assets,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,41.0,41.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2020,total_current_liabilities,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,12.0,12.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2020,total_liabilities,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,15.0,15.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2020,capex,cash_flow,annual_value_vs_sum_of_q1_to_q4,0.7,,,,,"Q1, Q2, Q3, Q4",INCOMPLETE,"Missing required quarterly observations: Q1, Q2, Q3, Q4."
+2020,operating_cash_flow,cash_flow,annual_value_vs_sum_of_q1_to_q4,-29.0,,,,,"Q1, Q2, Q3, Q4",INCOMPLETE,"Missing required quarterly observations: Q1, Q2, Q3, Q4."
+2020,stock_based_compensation,cash_flow,annual_value_vs_sum_of_q1_to_q4,3.0,,,,,"Q1, Q2, Q3, Q4",INCOMPLETE,"Missing required quarterly observations: Q1, Q2, Q3, Q4."
+2020,cost_of_revenue,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,0.9,,,,,"Q1, Q2, Q3, Q4",INCOMPLETE,"Missing required quarterly observations: Q1, Q2, Q3, Q4."
+2020,depreciation_and_amortization,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,2.0,,,,,"Q1, Q2, Q3, Q4",INCOMPLETE,"Missing required quarterly observations: Q1, Q2, Q3, Q4."
+2020,gross_profit,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,4.0,,,,,"Q1, Q2, Q3, Q4",INCOMPLETE,"Missing required quarterly observations: Q1, Q2, Q3, Q4."
+2020,interest_expense,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-5.0,,,,,"Q1, Q2, Q3, Q4",INCOMPLETE,"Missing required quarterly observations: Q1, Q2, Q3, Q4."
+2020,net_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-22.0,,,,,"Q1, Q2, Q3, Q4",INCOMPLETE,"Missing required quarterly observations: Q1, Q2, Q3, Q4."
+2020,operating_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-31.0,,,,,"Q1, Q2, Q3, Q4",INCOMPLETE,"Missing required quarterly observations: Q1, Q2, Q3, Q4."
+2020,pretax_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-22.0,,,,,"Q1, Q2, Q3, Q4",INCOMPLETE,"Missing required quarterly observations: Q1, Q2, Q3, Q4."
+2020,r_and_d,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,20.0,,,,,"Q1, Q2, Q3, Q4",INCOMPLETE,"Missing required quarterly observations: Q1, Q2, Q3, Q4."
+2020,revenue,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,5.0,,,,,"Q1, Q2, Q3, Q4",INCOMPLETE,"Missing required quarterly observations: Q1, Q2, Q3, Q4."
+2020,sga,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,15.0,,,,,"Q1, Q2, Q3, Q4",INCOMPLETE,"Missing required quarterly observations: Q1, Q2, Q3, Q4."
+2020,eps_basic,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2020,eps_diluted,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2020,weighted_average_basic_shares,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2020,weighted_average_diluted_shares,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2021,accounts_payable,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,2.0,2.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2021,accrued_expenses,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,4.0,4.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2021,cash_and_equivalents,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,9.0,9.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2021,deferred_revenue,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,3.0,3.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2021,long_term_debt,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,30.0,30.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2021,short_term_debt,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,0.4,0.4,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2021,stockholders_equity,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,-18.0,-18.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2021,total_assets,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,29.0,29.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2021,total_current_assets,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,16.0,16.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2021,total_current_liabilities,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,10.0,10.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2021,total_liabilities,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,48.0,48.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2021,capex,cash_flow,annual_value_vs_sum_of_q1_to_q4,2.0,,,,Q4,"Q1, Q2, Q3",INCOMPLETE,"Missing required quarterly observations: Q1, Q2, Q3."
+2021,operating_cash_flow,cash_flow,annual_value_vs_sum_of_q1_to_q4,-35.0,,,,Q4,"Q1, Q2, Q3",INCOMPLETE,"Missing required quarterly observations: Q1, Q2, Q3."
+2021,stock_based_compensation,cash_flow,annual_value_vs_sum_of_q1_to_q4,2.0,,,,Q4,"Q1, Q2, Q3",INCOMPLETE,"Missing required quarterly observations: Q1, Q2, Q3."
+2021,cost_of_revenue,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,2.0,,,,"Q3, Q4","Q1, Q2",INCOMPLETE,"Missing required quarterly observations: Q1, Q2."
+2021,depreciation_and_amortization,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,2.0,,,,Q4,"Q1, Q2, Q3",INCOMPLETE,"Missing required quarterly observations: Q1, Q2, Q3."
+2021,gross_profit,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,5.0,,,,"Q3, Q4","Q1, Q2",INCOMPLETE,"Missing required quarterly observations: Q1, Q2."
+2021,interest_expense,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-4.0,,,,"Q3, Q4","Q1, Q2",INCOMPLETE,"Missing required quarterly observations: Q1, Q2."
+2021,net_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-41.0,,,,"Q3, Q4","Q1, Q2",INCOMPLETE,"Missing required quarterly observations: Q1, Q2."
+2021,operating_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-39.0,,,,"Q3, Q4","Q1, Q2",INCOMPLETE,"Missing required quarterly observations: Q1, Q2."
+2021,pretax_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-41.0,,,,"Q3, Q4","Q1, Q2",INCOMPLETE,"Missing required quarterly observations: Q1, Q2."
+2021,r_and_d,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,25.0,,,,"Q3, Q4","Q1, Q2",INCOMPLETE,"Missing required quarterly observations: Q1, Q2."
+2021,revenue,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,6.0,,,,"Q3, Q4","Q1, Q2",INCOMPLETE,"Missing required quarterly observations: Q1, Q2."
+2021,sga,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,18.0,,,,"Q3, Q4","Q1, Q2",INCOMPLETE,"Missing required quarterly observations: Q1, Q2."
+2021,eps_basic,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2021,eps_diluted,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2021,weighted_average_basic_shares,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2021,weighted_average_diluted_shares,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2022,accounts_payable,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,4.0,4.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2022,accrued_expenses,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,7.0,7.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2022,cash_and_equivalents,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,7.0,7.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2022,deferred_revenue,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,2.0,2.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2022,long_term_debt,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,31.0,31.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2022,short_term_debt,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,2.0,2.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2022,stockholders_equity,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,-29.0,-29.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2022,total_assets,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,27.0,27.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2022,total_current_assets,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,14.0,14.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2022,total_current_liabilities,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,16.0,16.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2022,total_liabilities,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,56.0,56.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2022,capex,cash_flow,annual_value_vs_sum_of_q1_to_q4,0.4,0.5,-0.09999999999999998,0.24999999999999994,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2022,operating_cash_flow,cash_flow,annual_value_vs_sum_of_q1_to_q4,-45.0,-46.0,1.0,0.022222222222222223,"Q1, Q2, Q3, Q4",,WARNING,Compared annual value with the sum of Q1 through Q4.
+2022,stock_based_compensation,cash_flow,annual_value_vs_sum_of_q1_to_q4,9.0,8.6,0.40000000000000036,0.04444444444444448,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2022,cost_of_revenue,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,3.0,2.9,0.10000000000000009,0.03333333333333336,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2022,depreciation_and_amortization,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,1.0,1.4,-0.3999999999999999,0.3999999999999999,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2022,gross_profit,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,4.0,3.8,0.20000000000000018,0.050000000000000044,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2022,interest_expense,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-2.0,-1.8,-0.19999999999999996,0.09999999999999998,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2022,net_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-54.0,-54.0,0.0,0.0,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2022,operating_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-59.0,-59.0,0.0,0.0,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2022,pretax_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-54.0,-54.0,0.0,0.0,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2022,r_and_d,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,32.0,33.0,-1.0,0.03125,"Q1, Q2, Q3, Q4",,WARNING,Compared annual value with the sum of Q1 through Q4.
+2022,revenue,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,7.0,7.0,0.0,0.0,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2022,sga,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,32.0,32.0,0.0,0.0,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2022,eps_basic,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2022,eps_diluted,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2022,weighted_average_basic_shares,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2022,weighted_average_diluted_shares,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2023,accounts_payable,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,1.0,1.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2023,accrued_expenses,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,5.0,5.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2023,cash_and_equivalents,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,41.0,41.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2023,deferred_revenue,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,3.0,3.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2023,long_term_debt,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,64.0,64.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2023,short_term_debt,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,0.4,0.4,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2023,stockholders_equity,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,-24.0,-24.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2023,total_assets,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,59.0,59.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2023,total_current_assets,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,47.0,47.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2023,total_current_liabilities,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,11.0,11.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2023,total_liabilities,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,84.0,84.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2023,capex,cash_flow,annual_value_vs_sum_of_q1_to_q4,0.6,0.6000000000000001,-1.1102230246251565e-16,1.8503717077085943e-16,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2023,operating_cash_flow,cash_flow,annual_value_vs_sum_of_q1_to_q4,-61.0,-61.0,0.0,0.0,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2023,stock_based_compensation,cash_flow,annual_value_vs_sum_of_q1_to_q4,22.0,23.0,-1.0,0.045454545454545456,"Q1, Q2, Q3, Q4",,WARNING,Compared annual value with the sum of Q1 through Q4.
+2023,cost_of_revenue,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,4.0,3.9,0.10000000000000009,0.025000000000000022,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2023,depreciation_and_amortization,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,1.0,1.0,0.0,0.0,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2023,gross_profit,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,5.0,5.1,-0.09999999999999964,0.019999999999999928,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2023,interest_expense,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-0.0,0.2,-0.2,,"Q1, Q2, Q3, Q4",,PASS,"Annual value is zero; percentage difference is not meaningful, so status relies on the absolute tolerance."
+2023,net_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-85.0,-82.0,-3.0,0.03529411764705882,"Q1, Q2, Q3, Q4",,WARNING,Compared annual value with the sum of Q1 through Q4.
+2023,operating_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-81.0,-81.0,0.0,0.0,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2023,pretax_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-85.0,-82.0,-3.0,0.03529411764705882,"Q1, Q2, Q3, Q4",,WARNING,Compared annual value with the sum of Q1 through Q4.
+2023,r_and_d,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,38.0,38.0,0.0,0.0,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2023,revenue,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,9.0,10.0,-1.0,0.1111111111111111,"Q1, Q2, Q3, Q4",,WARNING,Compared annual value with the sum of Q1 through Q4.
+2023,sga,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,47.0,47.0,0.0,0.0,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2023,eps_basic,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2023,eps_diluted,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2023,weighted_average_basic_shares,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2023,weighted_average_diluted_shares,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2024,accounts_payable,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,0.8,0.8,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2024,accrued_expenses,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,9.0,9.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2024,cash_and_equivalents,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,178.0,178.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2024,deferred_revenue,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,19.0,19.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2024,long_term_debt,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,30.0,30.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2024,short_term_debt,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,0.3,0.3,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2024,stockholders_equity,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,63.0,63.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2024,total_assets,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,200.0,200.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2024,total_current_assets,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,185.0,185.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2024,total_current_liabilities,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,30.0,30.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2024,total_liabilities,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,137.0,137.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2024,capex,cash_flow,annual_value_vs_sum_of_q1_to_q4,2.0,2.1,-0.10000000000000009,0.050000000000000044,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2024,operating_cash_flow,cash_flow,annual_value_vs_sum_of_q1_to_q4,-43.0,-42.0,-1.0,0.023255813953488372,"Q1, Q2, Q3, Q4",,WARNING,Compared annual value with the sum of Q1 through Q4.
+2024,stock_based_compensation,cash_flow,annual_value_vs_sum_of_q1_to_q4,16.0,16.0,0.0,0.0,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2024,cost_of_revenue,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,3.0,3.2,-0.20000000000000018,0.06666666666666672,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2024,depreciation_and_amortization,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,1.0,1.1,-0.10000000000000009,0.10000000000000009,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2024,gross_profit,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,6.0,5.0,1.0,0.16666666666666666,"Q1, Q2, Q3, Q4",,WARNING,Compared annual value with the sum of Q1 through Q4.
+2024,interest_expense,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-4.0,-3.4,-0.6000000000000001,0.15000000000000002,"Q1, Q2, Q3, Q4",,WARNING,Compared annual value with the sum of Q1 through Q4.
+2024,interest_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,2.0,,,,,"Q1, Q2, Q3, Q4",INCOMPLETE,"Missing required quarterly observations: Q1, Q2, Q3, Q4."
+2024,net_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-144.0,-147.0,3.0,0.020833333333333332,"Q1, Q2, Q3, Q4",,WARNING,Compared annual value with the sum of Q1 through Q4.
+2024,operating_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-77.0,-78.0,1.0,0.012987012987012988,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2024,pretax_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-144.0,-147.0,3.0,0.020833333333333332,"Q1, Q2, Q3, Q4",,WARNING,Compared annual value with the sum of Q1 through Q4.
+2024,r_and_d,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,35.0,36.0,-1.0,0.02857142857142857,"Q1, Q2, Q3, Q4",,WARNING,Compared annual value with the sum of Q1 through Q4.
+2024,revenue,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,9.0,8.0,1.0,0.1111111111111111,"Q1, Q2, Q3, Q4",,WARNING,Compared annual value with the sum of Q1 through Q4.
+2024,sga,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,47.0,48.0,-1.0,0.02127659574468085,"Q1, Q2, Q3, Q4",,WARNING,Compared annual value with the sum of Q1 through Q4.
+2024,eps_basic,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2024,eps_diluted,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2024,weighted_average_basic_shares,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2024,weighted_average_diluted_shares,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2025,accounts_payable,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,1.0,1.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2025,accrued_expenses,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,16.0,16.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2025,cash_and_equivalents,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,635.0,635.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2025,deferred_revenue,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,3.0,3.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2025,long_term_debt,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,36.0,36.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2025,marketable_securities,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,249.0,249.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2025,short_term_debt,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,0.1,0.1,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2025,stockholders_equity,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,852.0,852.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2025,total_assets,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,916.0,916.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2025,total_current_assets,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,896.0,896.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2025,total_current_liabilities,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,21.0,21.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2025,total_liabilities,balance_sheet_point_in_time,annual_year_end_value_vs_q4_ending_balance,64.0,64.0,0.0,0.0,Q4,,PASS,Compared annual year-end balance with Q4 ending balance.
+2025,capex,cash_flow,annual_value_vs_sum_of_q1_to_q4,4.0,4.1,-0.09999999999999964,0.02499999999999991,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2025,operating_cash_flow,cash_flow,annual_value_vs_sum_of_q1_to_q4,-72.0,-71.0,-1.0,0.013888888888888888,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2025,stock_based_compensation,cash_flow,annual_value_vs_sum_of_q1_to_q4,23.0,23.0,0.0,0.0,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2025,cost_of_revenue,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,4.0,4.0,0.0,0.0,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2025,depreciation_and_amortization,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,2.0,1.6,0.3999999999999999,0.19999999999999996,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2025,gross_profit,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,20.0,21.0,-1.0,0.05,"Q1, Q2, Q3, Q4",,WARNING,Compared annual value with the sum of Q1 through Q4.
+2025,interest_expense,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-4.0,-3.6,-0.3999999999999999,0.09999999999999998,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2025,interest_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,24.0,,,,Q1,"Q2, Q3, Q4",INCOMPLETE,"Missing required quarterly observations: Q2, Q3, Q4."
+2025,net_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-355.0,-362.0,7.0,0.01971830985915493,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2025,operating_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-100.0,-101.0,1.0,0.01,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2025,pretax_income,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,-355.0,-362.0,7.0,0.01971830985915493,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2025,r_and_d,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,51.0,51.0,0.0,0.0,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2025,revenue,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,25.0,25.0,0.0,0.0,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2025,sga,income_statement_flow,annual_value_vs_sum_of_q1_to_q4,70.0,70.0,0.0,0.0,"Q1, Q2, Q3, Q4",,PASS,Compared annual value with the sum of Q1 through Q4.
+2025,eps_basic,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2025,eps_diluted,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2025,weighted_average_basic_shares,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
+2025,weighted_average_diluted_shares,not_applicable,not_applicable,,,,,,,NOT_APPLICABLE,Metric is not economically valid for annual-vs-quarterly reconciliation.
